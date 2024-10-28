@@ -24309,7 +24309,7 @@ A.dI(e,$.hl(),!0)
 f=A.aA_(new A.ee(e))
 d=new A.O8(f,f.ghY().r4("Deals"))
 A.dI(d.ghY(),$.ui(),!0)
-n=A.asI(f,d.ghY().SB(400))
+n=A.asI(f,d.ghY().SB(1000))
 if(a2!=null){f=n
 c=f.a_L(a2)
 n=A.asI(f.a,f.ghY().HB(c.h(0,"orders"),c.h(0,"values")))}s=7
