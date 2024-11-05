@@ -1,6 +1,6 @@
 {
-    "name": "capstone_prototype",
-    "short_name": "capstone_prototype",
+    "name": "capstone",
+    "short_name": "capstone",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
