@@ -24299,7 +24299,7 @@ d=f.c
 if(d==null){d=f.e
 d=f.c=A.apI().E2(f.d,d)}d=new A.O8(f,d.r4("Deals"))
 A.dq(d.gmi(),$.ui(),!0)
-n=A.aEl(f,d.gmi().Sx(400))
+n=A.aEl(f,d.gmi().Sx(1000))
 s=7
 return A.Q(n.jW(),$async$Gq)
 case 7:m=a4
