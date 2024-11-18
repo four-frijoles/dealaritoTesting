@@ -1,6 +1,6 @@
 {
-    "name": "capstone",
-    "short_name": "capstone",
+    "name": "dealarito_app",
+    "short_name": "dealarito_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
