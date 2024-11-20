@@ -3,11 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "2ab12b203f661853fd0b1fbb056e2022",
-"assets/AssetManifest.bin.json": "31f54c9e66633229766a635576eeb304",
-"assets/AssetManifest.json": "25422d15550306533a26a0d3aad523ff",
+const RESOURCES = {"assets/AssetManifest.bin": "c4b68fc8c0314f19c10f9a40fc55acf0",
+"assets/AssetManifest.bin.json": "2dfb54029cc4c1f9d829bb9a29a2539e",
+"assets/AssetManifest.json": "e0a9ca2abf04aff40cde2d8dca66d3c5",
 "assets/assets/dealarito_logo.png": "6c376239c5cf9688a9f0812a394b4f92",
 "assets/assets/default_store_logo_small.png": "e0ee89519218e50b1f30122f8027f686",
+"assets/assets/favicon.png": "a7fa532ddecc810caa1c59b4316d64ec",
 "assets/assets/foodbasics_logo_small.png": "4f6f84b525a72f79ec331431581c6028",
 "assets/assets/logo.png": "a7fa532ddecc810caa1c59b4316d64ec",
 "assets/assets/metro_logo_small.png": "94b83efd8b5947a597f98159aba015d8",
@@ -28,7 +29,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "2ab12b203f661853fd0b1fbb056e2022
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "7a62fa86a475caa1fc28629010346b18",
+"flutter_bootstrap.js": "c4b7b068590bf00c91322f21a0478cd6",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
